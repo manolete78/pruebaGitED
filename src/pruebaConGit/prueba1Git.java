@@ -7,6 +7,8 @@ public class prueba1Git {
 		System.out.println("Hola jaime y liviu");
 		String nombre ="pedro jimenez";
 		System.out.println(nombre);
+		int numero =9;
+		System.out.println(numero);
 	}
 	
 
